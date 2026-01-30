@@ -1,0 +1,6 @@
+Name: Olaleye Aderinola
+Matric Number: 22CG031921
+Machine Learning Algorithm Used: Convolutional Neural Network (CNN)
+Model Persistence Method Used: Keras H5 Format (.h5)
+Live URL: [Your Streamlit Link]
+GitHub Repository Link: https://github.com/Derinola-code/EmotionDetectorProject/
