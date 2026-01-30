@@ -1,0 +1,5 @@
+streamlit
+tensorflow-cpu
+numpy
+pillow
+altair==4.2.2
